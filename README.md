@@ -4,5 +4,5 @@ This is mobile app.This app allows the students to purchase the discount voucher
 
 # Technology Stack
 
-Frontend: Flutter \n
+Frontend: Flutter 
 Backend: Laravel
